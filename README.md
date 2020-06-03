@@ -3,3 +3,9 @@ This project is currently developing. At present, users can upload a local image
 
 The overall effect:
 ![image](https://github.com/jiaxiuli/Face-Recognition-and-Processing/blob/master/image/overall.png)
+
+Upload local image and detect:
+![image](https://github.com/jiaxiuli/Face-Recognition-and-Processing/blob/master/image/overall%20upload.png)
+
+link image by URL:
+![image](https://github.com/jiaxiuli/Face-Recognition-and-Processing/blob/master/image/overall%20url.png)
